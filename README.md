@@ -1,4 +1,4 @@
-<p align="center">Proyecto de laravel en el que se incluye un sistema de login de usuarios y un pequeño control de la información del usuario que se guarda en las sesiones.</p>
+<p align="center">Proyecto de laravel en el que se incluye un sistema de login y un pequeño formulario para el envío de mails a través del servidor "falso" de emails testing mailtrap.</p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
